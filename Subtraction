@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+// Variable declaration:
+
+extern double x; 
+int main () {
+   int x=4-4;
+ 
+   cout << x << endl ; 
+   return 0;
+}
